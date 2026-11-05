@@ -1,0 +1,28 @@
+CENDRELUNE SUR IPHONE
+
+Il faut iOS 16.4 ou plus récent, et Safari pour l'installation.
+
+METTRE LE JEU EN LIGNE (gratuit, à faire une seule fois)
+1. Sur github.com, crée un nouveau dépôt nommé "cendrelune-iphone", en public ("Public").
+   Attention : le jeu sera accessible à toute personne qui a le lien. Sur un compte GitHub gratuit, cette publication ne marche pas avec un dépôt privé.
+2. Clique sur "uploading an existing file".
+3. Glisse tout le contenu de ce dossier (pas le dossier lui-même), puis clique sur "Commit changes".
+4. Va dans Settings > Pages. Dans "Branch", choisis "main", laisse "/ (root)", puis clique sur "Save".
+5. Attends une à deux minutes. L'adresse du jeu sera : https://TON-PSEUDO.github.io/cendrelune-iphone/
+
+INSTALLER SUR L'IPHONE
+1. Ouvre cette adresse dans Safari et attends que le jeu s'affiche.
+2. Touche le bouton Partager (le carré avec une flèche).
+3. Touche "Sur l'écran d'accueil", puis "Ajouter".
+4. Lance toujours le jeu depuis cette icône. Il s'ouvre en plein écran et il marche ensuite sans internet.
+
+RÉCUPÉRER TA PARTIE
+Les sauvegardes ne passent pas toutes seules d'un appareil à l'autre.
+Sur ton appareil actuel, ouvre "Mes parties" depuis le menu principal et touche "Exporter". Sur l'iPhone, ouvre aussi "Mes parties" et touche "Importer une partie".
+Évite de jouer depuis Safari sans l'icône : Safari peut effacer ses données après 7 jours sans visite, et ce n'est pas la même sauvegarde que celle de l'icône.
+
+METTRE À JOUR LE JEU
+Dépose le nouveau index.html dans le dépôt, puis "Commit changes". L'iPhone prend la nouvelle version au lancement suivant avec internet. Si tu ne la vois pas, ferme l'application et relance-la une deuxième fois.
+
+SI LE SON NE MARCHE PAS
+Vérifie que l'iPhone n'est pas en mode silencieux (le bouton sur le côté).
